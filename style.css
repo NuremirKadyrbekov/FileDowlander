@@ -1,0 +1,36 @@
+.image{
+    width: 256px;
+    height: 256px;
+    border: 1px solid;
+    margin-left: 41%;
+    border-radius: 50%;
+}
+.buttonSave{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+}
+.buttonDel{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    margin: 10px;
+    width: max-content;
+    height: 60px;
+    border: 1px solid;
+    border-radius: 5px ;
+    box-shadow: 0 0 4px 2px rgb(192, 167, 167);
+    margin-left: 43%;
+}
+.inputFile{
+        margin: 20px;
+        display: flex;
+        justify-content: center;
+        
+     
+}
+.image1{
+    width: 256px;
+    height: 256px;
+    border-radius: 50%;
+}
